@@ -1,5 +1,6 @@
 ## Este es el README personal de Felicidad
 Formato **negrita** y *cursiva*. Que pena, a mi no me salieron los emoticonos de abajo.
+Puedes probar a poner otros
 
 <!--
 **FelicidadGT/FelicidadGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
