@@ -1,5 +1,6 @@
 ## Este es el README personal de Felicidad
 Formato **negrita** y *cursiva*. Que pena, a mi no me salieron los emoticonos de abajo.
+Puedes probar a poner otros
 
 Este cambio va de parte de René (branch: restore-changes).
 
